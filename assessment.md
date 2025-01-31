@@ -11,11 +11,11 @@
 
 ## Basic information
 
-Name:
+Name:Yangyang Fu
 
-CNetID:
+CNetID:12435011
 
-Section:
+Section:2
 
 Mini-project title:
 
